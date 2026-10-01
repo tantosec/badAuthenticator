@@ -1,0 +1,15 @@
+.git
+.github
+.env
+.vscode
+badauthenticator
+dist
+dev_docs
+keystore
+badauthenticator-keystore
+passkey-flow-research
+*.burp
+*.db
+*.key.pem
+*.test
+*.out

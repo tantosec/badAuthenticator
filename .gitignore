@@ -1,0 +1,26 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.burp
+
+/badauthenticator
+.vscode/
+
+# Test binaries and coverage output
+*.test
+*.out
+
+go.work
+go.work.sum
+
+.env
+
+keystore/*
+badauthenticator-keystore/*
+
+attest_options.json
+
+# Local research helper
+import-bitwarden-poc-passkey
